@@ -1,1 +1,1 @@
-# Optimization
+# Linear and Nonlinear Optimization
