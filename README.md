@@ -1,6 +1,6 @@
 # Linear and Nonlinear Optimization
 
-A short show-case of Optimization Coding I did in the fall 2022 semester
+A short show-case of Optimization Coding I did in the fall 2022 semester. 
 Here's brief run through of the topics we covered. 
 
 # Unconstrained
