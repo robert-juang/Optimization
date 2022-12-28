@@ -13,4 +13,4 @@ Linear Programming, Feasibility, KKT, Langrangian Duality, Simplex Method, Inter
 
 # Final Thoughts 
 
-Overall, I am really glad I took the class! The assignments were unique and challenging. I had forgotten most of the math I learned in linear algebra so this class started out really rough but definitely got better over time. I think I will continue to learn more about optimization in my own time, building off of techniques and concepts that I have learned in class. I might consider uploading more code if I find the time to do so in the future. 
+Overall, the assignments were unique and challenging. I had forgotten what I did in linear algebra so this class started out really rough but definitely got better over time. I think I will continue to learn more about optimization in my own time, building off of techniques and concepts that I have learned in class. I might uploading more code if I find time to do so in the future. 
