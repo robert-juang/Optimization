@@ -1,6 +1,6 @@
 # Linear and Nonlinear Optimization
 
-This repo contains the Optimization Coding I did in the fall 2022 semester. 
+This repo contains a compilation of Optimization Coding I did
 Here's brief rundown of topics covered: 
 
 # Unconstrained
