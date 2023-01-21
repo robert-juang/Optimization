@@ -1,7 +1,6 @@
 # Linear and Nonlinear Optimization
 
-This repo contains a compilation of Optimization Coding I did
-Here's brief rundown of topics covered: 
+This repo contains a compilation of Optimization Related Coding
 
 # Unconstrained
 
